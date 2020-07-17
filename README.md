@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Senior Cloud & DevOps Consultant at white duck. MVP, Docker Community Leader, GitLab Hero, blogger & speaker. 👨‍💻🙋‍♂️ Loves Kubernetes, DevOps & Cloud.
+
 <!--
 **nmeisenzahl/nmeisenzahl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
