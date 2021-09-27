@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-Senior Cloud & DevOps Consultant at white duck. MVP, Docker Community Leader, GitLab Hero, blogger & speaker. 👨‍💻🙋‍♂️ Loves Kubernetes, DevOps & Cloud.
+I'm a Senior Cloud & DevOps Consultant doing #CloudNative & #Kubernetes at [white duck](https://github.com/whiteducksoftware). I'm a Microsoft MVP, GitLab Hero, blogger & speaker. 
 
-* ✉️ contact me via [Twitter](https://twitter.com/nmeisenzahl)
-* 📨 or on [LinkedIn](https://www.linkedin.com/in/nicomeisenzahl/)
+Find me on [Twitter](https://twitter.com/nmeisenzahl) and [LinkedIn](https://www.linkedin.com/in/nicomeisenzahl)
