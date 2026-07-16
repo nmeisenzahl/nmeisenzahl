@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-I'm COO | Cloud Solution Architect at white duck doing #CloudNative, #Kubernetes & #Azure. 👨‍💻☁️  #MSFT MVP, #GitLab Hero, blogger & speaker. #CoffeeAddicted ☕️
+I'm COO and Cloud Solution Architect at white duck. Assisting companies with Agentic AI, Internal Developer Platforms, and AI Engineering 🤖☁️
 
-Find me on [Twitter](https://twitter.com/nmeisenzahl) and [LinkedIn](https://www.linkedin.com/in/nicomeisenzahl)
+Find me on [LinkedIn](https://www.linkedin.com/in/nicomeisenzahl).
